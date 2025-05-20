@@ -1,4 +1,6 @@
-## Hi there 👋
+## Bem-Vindos ao meu Mundo!
+
+![Gif meu mundo](https://media1.tenor.com/m/yOSypUmsmnwAAAAC/grinder-wl.gif)
 
 <!--
 **costa-lucassouza/costa-lucassouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
