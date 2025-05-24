@@ -1,5 +1,5 @@
 ## Bem-Vindos ao meu Mundo!
 
-![Gif meu mundo](https://media1.tenor.com/m/yOSypUmsmnwAAAAC/grinder-wl.gif)
+![Gif meu mundo](https://tenor.com/oivlU7K2924.gif)
 
 🧑🏾‍💻 Olá me chamo Lucas Costa!
