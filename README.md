@@ -4,7 +4,7 @@
 
 🧑🏾‍💻 Olá me chamo Lucas Costa!
 Estudante de Análise e Desenvolvimento de Sistemas
-na [Unimar.]("https://unimar.br/")
+na [Unimar.](https://unimar.br/)
 ------
 
 | Cursos | Certificados |
@@ -12,4 +12,4 @@ na [Unimar.]("https://unimar.br/")
 |Fundamentos do Python | [Certificado](https://hermes.dio.me/certificates/SJMGBDBE.pdf) |
 | Introdução à Análise de Dados com Power BI com a Suzano | [Certificado](https://hermes.dio.me/certificates/2S6NW9MA.pdf) |
 
-(![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula))
+(![Lucas Costa GitHub stats](https://github-readme-stats.vercel.app/api?username=costa-lucassouza&show_icons=true&theme=dracula))
